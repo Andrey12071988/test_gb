@@ -57,3 +57,5 @@ Big ticket items that are not on the road map yet
 
 - Package BuildID support (make stale detection work like the Go 1.5)
 - `gccgo` toolchain support.
+
+Произвел редактирование
